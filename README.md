@@ -4,7 +4,7 @@ An end-to-end tutorial to train a custom object detection model and deploy it on
 
 ## Steps:
 
-1. Prepare your dataset and label them in PascalVOC format using [LabelImg](https://github.com/tzutalin/labelImg). Once done, zip all the images and their corresponding label files.
+1. Prepare your dataset and label them in PascalVOC format using [LabelImg](https://github.com/tzutalin/labelImg).
 
 2. Programmatically convert all the raw images in your dataset in the `JPEG` format using this [script](https://github.com/NSTiwari/Custom-Object-Detection-on-Android-using-TF-Lite/blob/master/convert_images_to_jpeg.py). Doing so will ensure that you don't face any error while loading your dataset during model training.
 
