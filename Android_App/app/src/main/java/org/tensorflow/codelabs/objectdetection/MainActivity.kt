@@ -127,7 +127,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 .build()
         val detector = ObjectDetector.createFromFileAndOptions(
                 this,
-                "cartoon.tflite",
+                "<your_model.tflite>",
                 options
         )
 
