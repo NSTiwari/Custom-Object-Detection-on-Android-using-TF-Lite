@@ -330,7 +330,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             // calculate the right font size
             pen.style = Paint.Style.FILL_AND_STROKE
-            pen.color = Color.YELLOW
+            pen.color = Color.BLUE
             pen.strokeWidth = 2F
 
             pen.textSize = MAX_FONT_SIZE

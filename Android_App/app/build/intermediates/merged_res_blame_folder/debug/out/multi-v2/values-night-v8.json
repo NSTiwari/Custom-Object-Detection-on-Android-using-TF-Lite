@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\odml-pathways\\object-detection\\codelab2\\android\\final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Custom-Object-Detection-on-Android-using-TF-Lite\\Android_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tiwar\\.gradle\\caches\\transforms-2\\files-2.1\\4102c377b7a8a929cfb8c6bcf858d486\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "E:\\odml-pathways\\object-detection\\codelab2\\android\\final\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\Custom-Object-Detection-on-Android-using-TF-Lite\\Android_App\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

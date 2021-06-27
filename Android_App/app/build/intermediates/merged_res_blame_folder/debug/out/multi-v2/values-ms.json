@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\odml-pathways\\object-detection\\codelab2\\android\\final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "D:\\Custom-Object-Detection-on-Android-using-TF-Lite\\Android_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tiwar\\.gradle\\caches\\transforms-2\\files-2.1\\f4726924add2327517ec5f23b6aa3aba\\core-1.3.2\\res\\values-ms\\values-ms.xml",

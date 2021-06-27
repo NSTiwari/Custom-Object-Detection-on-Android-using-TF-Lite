@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\eacf15472b9c87380c485bbfb6b5269d\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\fe1c667252f6514e86b0d05a89adaff8\jetified-lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\10a1fd9a43e78ddadba51799567f760e\material-1.3.0\AndroidManifest.xml:17:1-24:12
@@ -44,33 +44,33 @@ MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.
 MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a1fbbdfadacd5f635317676937729482\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:2:1-6:12
 MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5feee9204a2734cf8da8f1ac9af1e8ff\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:2:1-5:12
 MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:3:5-54
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:11-69
 queries
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:5:5-9:15
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:5:5-9:15
 intent#action:name:android.media.action.IMAGE_CAPTURE
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:6:9-8:18
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:6:9-8:18
 action#android.media.action.IMAGE_CAPTURE
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:7:13-73
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:7:13-73
 	android:name
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:7:21-70
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:7:21-70
 application
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:11:5-35:19
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:11:5-35:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\10a1fd9a43e78ddadba51799567f760e\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\10a1fd9a43e78ddadba51799567f760e\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\ab75dfbbd723f28d9ab1c4d69d43602e\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -86,51 +86,51 @@ MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\f4726924add2327517ec5f23b6aa3aba\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:14:9-48
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:14:9-48
 	android:roundIcon
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:13:9-38
 	android:allowBackup
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:17:9-65
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:17:9-65
 activity#org.tensorflow.codelabs.objectdetection.MainActivity
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:18:9-24:20
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:18:19-86
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:19-86
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:22:27-74
 provider#androidx.core.content.FileProvider
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:26:9-34:20
 	android:grantUriPermissions
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:30:13-47
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:30:13-47
 	android:authorities
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:28:13-87
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:28:13-87
 	android:exported
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:29:13-37
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:27:13-62
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:27:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:31:13-33:54
+ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:31:13-33:54
 	android:resource
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:33:17-51
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:33:17-51
 	android:name
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:32:17-67
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:32:17-67
 uses-sdk
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\eacf15472b9c87380c485bbfb6b5269d\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\eacf15472b9c87380c485bbfb6b5269d\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\fe1c667252f6514e86b0d05a89adaff8\jetified-lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
@@ -209,20 +209,20 @@ MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\tiwar\.gradl
 MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5feee9204a2734cf8da8f1ac9af1e8ff\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:4:3-71
 MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
 MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		ADDED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		MERGED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
-		INJECTED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		MERGED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+IMPLIED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+IMPLIED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from E:\odml-pathways\object-detection\codelab2\android\final\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
