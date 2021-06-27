@@ -11,12 +11,12 @@ An end-to-end tutorial to train a custom object detection model and deploy it on
 3. Once you've converted the raw images, partition the dataset into train and test data in the following directory structure. 
 ```
 <your_dataset_name.zip>
-|__train
-   |__ images (all training image files - *.jpg)
-   |__ annotations (all training annotation files - *.xml)
-|__test
-   |__ images (all test image files - *.jpg)
-   |__ annotations (all test annotation files - *.xml) 
+|__ train
+|    |__ images (all training image files - *.jpg)
+|    |__ annotations (all training annotation files - *.xml)
+|__ test
+     |__ images (all test image files - *.jpg)
+     |__ annotations (all test annotation files - *.xml) 
 ```
 Once done, upload your zipped dataset on Kaggle/Google Drive.
  
