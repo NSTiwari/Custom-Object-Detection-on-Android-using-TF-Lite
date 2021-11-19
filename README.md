@@ -1,4 +1,4 @@
-# Custom-Object-Detection-on-Android-using-TF-Lite
+# Custom Object Detection on Android using TF Lite
 An end-to-end tutorial to train a custom object detection model and deploy it on Android using TensorFlow Lite.
 
 
