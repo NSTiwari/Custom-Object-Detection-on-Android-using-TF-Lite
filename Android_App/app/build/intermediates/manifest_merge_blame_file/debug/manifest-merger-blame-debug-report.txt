@@ -34,47 +34,46 @@
 25        android:extractNativeLibs="false"
 26        android:icon="@drawable/icon"
 26-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:13:9-38
-27        android:label="Custom Object Detection"
-27-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:14:9-48
+27        android:label="@string/app_name"
+27-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:14:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
 28-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:15:9-54
 29        android:supportsRtl="true"
 29-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:16:9-35
-30        android:testOnly="true"
-31        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-31-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:17:9-65
-32        <activity android:name="org.tensorflow.codelabs.objectdetection.MainActivity" >
-32-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:9-24:20
-32-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:19-86
-33            <intent-filter>
-33-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:19:13-23:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:20:17-69
-34-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:20:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:22:17-77
-36-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:22:27-74
-37            </intent-filter>
-38        </activity>
-39
-40        <provider
-40-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:26:9-34:20
-41            android:name="androidx.core.content.FileProvider"
-41-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:27:13-62
-42            android:authorities="org.tensorflow.codelabs.objectdetection.fileprovider"
-42-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:28:13-87
-43            android:exported="false"
-43-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:29:13-37
-44            android:grantUriPermissions="true" >
-44-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:30:13-47
-45            <meta-data
-45-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:31:13-33:54
-46                android:name="android.support.FILE_PROVIDER_PATHS"
-46-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:32:17-67
-47                android:resource="@xml/file_paths" />
-47-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:33:17-51
-48        </provider>
-49    </application>
-50
-51</manifest>
+30        android:theme="@style/Theme.ObjectDetection" >
+30-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:17:9-53
+31        <activity android:name="org.tensorflow.codelabs.objectdetection.MainActivity" >
+31-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:9-24:20
+31-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:19-86
+32            <intent-filter>
+32-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:19:13-23:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:20:17-69
+33-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:20:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:22:17-77
+35-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:22:27-74
+36            </intent-filter>
+37        </activity>
+38
+39        <provider
+39-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:26:9-34:20
+40            android:name="androidx.core.content.FileProvider"
+40-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:27:13-62
+41            android:authorities="org.tensorflow.codelabs.objectdetection.fileprovider"
+41-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:28:13-87
+42            android:exported="false"
+42-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:29:13-37
+43            android:grantUriPermissions="true" >
+43-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:30:13-47
+44            <meta-data
+44-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:31:13-33:54
+45                android:name="android.support.FILE_PROVIDER_PATHS"
+45-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:32:17-67
+46                android:resource="@xml/file_paths" />
+46-->D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:33:17-51
+47        </provider>
+48    </application>
+49
+50</manifest>

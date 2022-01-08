@@ -57,7 +57,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var imgSampleOne: ImageView
     private lateinit var imgSampleTwo: ImageView
     private lateinit var imgSampleThree: ImageView
-    private lateinit var tvPlaceholder: TextView
     private lateinit var currentPhotoPath: String
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -69,7 +68,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         imgSampleOne = findViewById(R.id.imgSampleOne)
         imgSampleTwo = findViewById(R.id.imgSampleTwo)
         imgSampleThree = findViewById(R.id.imgSampleThree)
-        tvPlaceholder = findViewById(R.id.tvPlaceholder)
 
 
         captureImageFab.setOnClickListener(this)
@@ -127,7 +125,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 .build()
         val detector = ObjectDetector.createFromFileAndOptions(
                 this,
-                "<your_model.tflite>",
+                "flow.tflite",
                 options
         )
 
@@ -176,7 +174,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private fun setViewAndDetect(bitmap: Bitmap) {
         // Display capture image
         inputImageView.setImageBitmap(bitmap)
-        tvPlaceholder.visibility = View.INVISIBLE
 
         // Run ODT and display result
         // Note that we run this in the background thread to avoid blocking the app UI because
@@ -330,7 +327,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             // calculate the right font size
             pen.style = Paint.Style.FILL_AND_STROKE
-            pen.color = Color.BLUE
+            pen.color = Color.YELLOW
             pen.strokeWidth = 2F
 
             pen.textSize = MAX_FONT_SIZE

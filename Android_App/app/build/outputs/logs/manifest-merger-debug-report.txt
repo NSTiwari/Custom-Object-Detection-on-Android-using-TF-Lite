@@ -10,7 +10,7 @@ MERGED from [com.google.android.material:material:1.3.0] C:\Users\tiwar\.gradle\
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\ab75dfbbd723f28d9ab1c4d69d43602e\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\4102c377b7a8a929cfb8c6bcf858d486\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5719245463ecd83a5a2aabb07c2e2f9b\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
-MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\93d74cae47c2ec3eaaef8788252aa688\jetified-tensorflow-lite-task-vision-0.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\efcf36310a28adae3a7622028560cdef\jetified-tensorflow-lite-task-vision-0.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\d26c4581f2aa1b1cbe7b20229144eab6\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\c1885a8736ec71b9a9070f3a9ebddec1\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\7768ef850c6e7f23afc64bde82056cbc\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -41,9 +41,10 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tiwar\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\4b393030b2c2e1fa1433125869d155cc\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\593a6423820f52e07f5cf586ae902042\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\0aaff4fb6b8684e27d7e3963216ee549\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a1fbbdfadacd5f635317676937729482\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:2:1-6:12
-MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5feee9204a2734cf8da8f1ac9af1e8ff\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:2:1-5:12
-MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5e791be14b23d5446b9ac8ee1134c66d\jetified-tensorflow-lite-task-base-0.3.1\AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a8777d45c2733e04e7a3181c0a44d50e\jetified-tensorflow-lite-support-api-0.3.1\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\19b1abeb1e22eb6d91d474b842d8e010\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\e3c1e43a2a7abfd044ab5bdb176727df\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
 INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
 INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
 INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:2:1-37:12
@@ -79,16 +80,18 @@ MERGED from [androidx.core:core:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-
 MERGED from [androidx.core:core:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\f4726924add2327517ec5f23b6aa3aba\core-1.3.2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\c0c934729d9ce0ebf2355fa409e06cb9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\c0c934729d9ce0ebf2355fa409e06cb9\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a1fbbdfadacd5f635317676937729482\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:4:4-5:18
-MERGED from [org.tensorflow:tensorflow-lite-task-base:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a1fbbdfadacd5f635317676937729482\jetified-tensorflow-lite-task-base-0.2.0\AndroidManifest.xml:4:4-5:18
-MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
-MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5e791be14b23d5446b9ac8ee1134c66d\jetified-tensorflow-lite-task-base-0.3.1\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5e791be14b23d5446b9ac8ee1134c66d\jetified-tensorflow-lite-task-base-0.3.1\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\19b1abeb1e22eb6d91d474b842d8e010\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\19b1abeb1e22eb6d91d474b842d8e010\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\e3c1e43a2a7abfd044ab5bdb176727df\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\e3c1e43a2a7abfd044ab5bdb176727df\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\f4726924add2327517ec5f23b6aa3aba\core-1.3.2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:14:9-48
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:14:9-41
 	android:roundIcon
 		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
@@ -96,7 +99,7 @@ MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches
 	android:allowBackup
 		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:17:9-65
+		ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:17:9-53
 activity#org.tensorflow.codelabs.objectdetection.MainActivity
 ADDED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:name
@@ -143,8 +146,8 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tiwar\.gradle\caches\t
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\4102c377b7a8a929cfb8c6bcf858d486\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5719245463ecd83a5a2aabb07c2e2f9b\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5719245463ecd83a5a2aabb07c2e2f9b\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
-MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\93d74cae47c2ec3eaaef8788252aa688\jetified-tensorflow-lite-task-vision-0.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\93d74cae47c2ec3eaaef8788252aa688\jetified-tensorflow-lite-task-vision-0.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\efcf36310a28adae3a7622028560cdef\jetified-tensorflow-lite-task-vision-0.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\efcf36310a28adae3a7622028560cdef\jetified-tensorflow-lite-task-vision-0.3.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\d26c4581f2aa1b1cbe7b20229144eab6\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\d26c4581f2aa1b1cbe7b20229144eab6\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\c1885a8736ec71b9a9070f3a9ebddec1\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -205,10 +208,12 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\tiwar\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\593a6423820f52e07f5cf586ae902042\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\0aaff4fb6b8684e27d7e3963216ee549\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\0aaff4fb6b8684e27d7e3963216ee549\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5feee9204a2734cf8da8f1ac9af1e8ff\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:4:3-71
-MERGED from [org.tensorflow:tensorflow-lite-support:0.2.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\5feee9204a2734cf8da8f1ac9af1e8ff\jetified-tensorflow-lite-support-0.2.0\AndroidManifest.xml:4:3-71
-MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
-MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\1f5283009bef87e8818924f05705a471\jetified-tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a8777d45c2733e04e7a3181c0a44d50e\jetified-tensorflow-lite-support-api-0.3.1\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\a8777d45c2733e04e7a3181c0a44d50e\jetified-tensorflow-lite-support-api-0.3.1\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\19b1abeb1e22eb6d91d474b842d8e010\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\19b1abeb1e22eb6d91d474b842d8e010\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\e3c1e43a2a7abfd044ab5bdb176727df\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\tiwar\.gradle\caches\transforms-2\files-2.1\e3c1e43a2a7abfd044ab5bdb176727df\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 INJECTED from D:\Custom-Object-Detection-on-Android-using-TF-Lite\Android_App\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
