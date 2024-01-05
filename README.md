@@ -1,7 +1,7 @@
 # Custom Object Detection on Android using TF Lite
 An end-to-end tutorial to train a custom object detection model and deploy it on Android using TensorFlow Lite.
 
-**Note:** TF Lite Model Maker is now deprecated and is replaced by [MediaPipe Model Maker](https://developers.google.com/mediapipe/solutions/model_maker). The below Colab notebook will therefore not work to train new models. 
+**Note:** [TF Lite Model Maker](https://www.tensorflow.org/lite/models/modify/model_maker) is now deprecated and is replaced by [MediaPipe Model Maker](https://developers.google.com/mediapipe/solutions/model_maker). The below Colab notebook will therefore not work to train new models. 
 
 ## Steps:
 
