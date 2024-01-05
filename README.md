@@ -36,7 +36,7 @@ Once done, upload your zipped dataset on Kaggle/Google Drive.
 
 
 
-## Output:
+## Demo Output:
 
 ![GitHub Logo](Output.gif)
 
